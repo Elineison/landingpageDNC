@@ -20,6 +20,7 @@ JS
 Como Visualizar o Projeto: 
 
 Para visualizar a Landing Page, você pode acessar https://desafio01-arquitetura.netlify.app
+
 Para verificar funcionalidade do formulário da pagina acesse https://docs.google.com/spreadsheets/d/1Aah9aKH2dK9DeU2KiIFx8aw455tYjmXGYYi2zCuQHn0/edit#gid=0
 
 Aprendizados e Desafios:
